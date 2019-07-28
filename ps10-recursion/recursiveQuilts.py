@@ -1,3 +1,5 @@
+# Your name: Daphka Alius, Anika Shields
+# Your username: dalius, ashields
 # CS111 Spring 2018 PS10 Task 2
 # recursiveQuilts.py
 # Submission date: 5/1/18
